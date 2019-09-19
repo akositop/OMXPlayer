@@ -2,7 +2,7 @@
 import os
 import kivy
 import subprocess
-
+#hahaha raks
 #from gpiozero import Button as gpc
 from powerOption import powerOptions
 from functools import partial
